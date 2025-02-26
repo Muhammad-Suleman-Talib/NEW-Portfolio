@@ -1,0 +1,128 @@
+{
+  "main": {
+    "name": "Muhammad Suleman",
+    "occupation": "Frontend Developer",
+    "description": "I create modern web experiences with Next.js and TypeScript",
+    "image": "/suleman.jpg",
+    "bio": "Hi there! I am Muhammad Suleman, a passionate Frontend Developer and Software Engineer. With expertise in Next.js, TypeScript, and modern web technologies, I focus on building scalable and high-performance web applications. My journey includes working on real-world projects, including e-commerce platforms, AI-powered applications, and dynamic web experiences. I aim to deliver user-centric, accessible, and well-optimized products. I continuously strive to learn and master new technologies, ensuring I stay at the forefront of web development.",
+    "contactmessage": "Let's connect and build something amazing together!",
+    "email": "suleman999ah@gmail.com",
+    "phone": "0370-5756563",
+    "address": {
+      "street": "Saddar Karachi",
+      "city": "Sanghar",
+      "state": "Pakistan",
+      "zip": "000078"
+    },
+    "website": "https://your-portfolio.com",
+    "resumedownload": "https://drive.google.com/file/d/1FSXBAUv8IqH2otlT5j7VjVLoON04whZH/view?usp=sharing",
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/Muhammad-Suleman-Talib",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/muhammad-suleman-a049902b5/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/your-profile",
+        "className": "fa fa-twitter"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "GIAIC",
+        "degree": "Advanced Web Development",
+        "graduated": "Expected Graduation: 2025",
+        "description": "Specialized in Next.js, TypeScript, and modern web frameworks."
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelance & Open Source Projects",
+        "title": "Frontend Developer",
+        "years": "2024 - Present",
+        "description": "Building scalable, accessible, and high-performance web applications using Next.js, TypeScript, and Tailwind CSS."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Next.js",
+        "level": "100%"
+      },
+      {
+        "name": "TypeScript",
+        "level": "95%"
+      },
+      {
+        "name": "React.js",
+        "level": "98%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Sanity",
+        "level": "90%"
+      },
+      {
+        "name": "Django",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Food Tuck",
+        "category": "Food Delivery App",
+        "image": "food.png",
+        "url": "https://food-tuck-my.vercel.app/"
+      },
+      {
+        "title": "Iphone Store",
+        "category": "Online Shop",
+        "image": "iphone.png",
+        "url": "https://iphone-store-online.vercel.app/"
+      },
+      {
+        "title": "Dressing.pk",
+        "category": "Explore the World of Fashion",
+        "image": "dressing.png",
+        "url": "https://dresssingpk.netlify.app/"
+      },
+      {
+        "title": "Resume Builder",
+        "category": "Resume Builder App",  
+        "image": "resume.png",
+        "url": "https://resume-builder-zeta-beige.vercel.app/"
+      },
+      {
+        "title": "Lamborghini Landing Page",
+        "category": "Landing Page Design ",
+        "image": "landingpage.jpg",
+        "url": "https://lamborganipk.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Muhammad Suleman is an exceptional developer! His expertise in Next.js and TypeScript is impressive, and he always delivers high-quality work.",
+        "user": "GIAIC / Team Member"
+      },
+      {
+        "text": "Working with Muhammad Suleman has been a great experience. His dedication to learning and building top-notch applications is inspiring.",
+        "user": "Colleague"
+      }
+    ]
+  }
+}
